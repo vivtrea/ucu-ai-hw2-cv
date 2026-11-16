@@ -49,3 +49,7 @@ htmlcov/
 .vscode/
 .idea/
 *.swp
+
+UCU_AI_HW1__Predicting_Assessment_Scores_Hovorov.ipynb
+# ---------- Kaggle downloads (competition-derived data, never commit) ----------
+kaggle_output/

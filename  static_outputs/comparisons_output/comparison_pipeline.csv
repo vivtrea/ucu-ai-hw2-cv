@@ -1,0 +1,9 @@
+submission,what,val mAP,public LB,private LB
+submission_05_rtdetr.csv,"RT-DETR-L, single pass",0.0650461320128108,0.0606,
+submission_07_A2_A3_wbf.csv,YOLO11s (04) + six-pass inference,0.2045399145772499,0.2694,
+submission_08_A2_A3_wbf.csv,"YOLO11s 1280 px, 20 epochs + six passes",0.2067250703268189,0.2393,
+submission_09_fusion.csv,"fusion of 2 models (04, 08), searched",0.2250133239103709,0.2765,
+submission_10_fusion.csv,"fusion of 3 models (+ YOLO11m), searched",0.2468748345222499,0.2869,
+submission_11_ensemble.csv,"fusion of 6 models, searched weights",0.2756917347107263,0.2938,
+submission_12_equal.csv,"fusion of 6 models, equal weights",0.2700796478774293,0.2964,
+submission_14_equal8.csv,"fusion of 8 models, equal weights",0.2721056942793601,0.2915,0.2547
